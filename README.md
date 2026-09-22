@@ -1,2 +1,13 @@
-# GA-EMD-LSTM-XGBoost-Commodity-Forecasting
-Genetic Algorithm Optimized EMD-LSTM-XGBoost Hybrid Model for Agricultural Commodity Price Forecasting
+
+# GA Optimized EMD-LSTM-XGBoost Hybrid Forecasting Model
+
+
+## Overview
+
+This repository implements a Genetic Algorithm optimized
+EMD-LSTM-XGBoost hybrid forecasting framework for agricultural
+commodity price prediction.
+
+
+## Model Architecture
+
